@@ -8,5 +8,7 @@ namespace ConsoleApplication1
 {
     class kkka
     {
+        //ggg
+        var ss = 5;
     }
 }
