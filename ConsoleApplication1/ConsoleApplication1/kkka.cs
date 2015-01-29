@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    class kkka
     {
-        static void Main(string[] args)
-        {
-            ///test!
-        }
     }
 }
